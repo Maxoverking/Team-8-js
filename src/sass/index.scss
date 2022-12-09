@@ -1,2 +1,17 @@
-@import './common';
-@import './example';
+@import './utils/common';
+@import './utils/basic-set-up';
+
+@import './components/header-home';
+@import './components/glider';
+
+@import './components/filmCards-home';
+
+@import './components/modal';
+@import './components/loader';
+
+@import './components/pagination';
+
+@import './components/footer';
+@import './components/footer-modal';
+
+@import './components/btn-scroll-top';
