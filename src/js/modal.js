@@ -109,7 +109,7 @@ function createModaMarckup(obj) {
                 </tr>
                 <tr class="modal-table__row">
                   <td class="modal-table__title">Popularity</td>
-                  <td class="modal-table__info">${popularity}</td>
+                  <td class="modal-table__info">${popularity.toFixed(1)}</td>
                 </tr>
                 <tr class="modal-table__row">
                   <td class="modal-table__title">Original Title</td>
